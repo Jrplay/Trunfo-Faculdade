@@ -1,4 +1,4 @@
-# Super Trunfo de Cidades
+
 #include <stdio.h>
 #include <string.h>
 
